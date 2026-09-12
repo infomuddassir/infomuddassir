@@ -15,11 +15,11 @@
 ```javascript
 const muddassir = {
   role: "Visiting Faculty",
-  institutions: ["LGS", "ESS", "Focus Point", "IQRA University"],
+  institutions: ["Head Start Clifton Campus", "ILMA University", "Institute of Business Management - IoBM", "IQRA University", "NAVTTC @ ILMA"],
   location: "Karachi, Pakistan",
-  subjects: ["Web Development", "Computer Science Fundamentals", "HTML/CSS/JS"],
+  subjects: ["Web Development", "Business Intelligence, e-Commerce, Programming Fundamentals, Object Oriented Programming, Human Computer Interaction, DBMS, Linear Algebra, Calculus and Analytical Geometry, Discrete Mathematics", "HTML/CSS/JS"],
   mission: "Making code click for every student, not just the fast ones",
-  currentlyTeaching: "Introduction to HTML — structure, forms, tables & the web",
+  currentlyTeaching: "HTML, Bootstrap, PHP, Business Intelligence, e-Commerce, OOPS, Linear Algebra, Discrete Mathematics",
 };
 ```
 
